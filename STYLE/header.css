@@ -12,3 +12,22 @@
     .container titulo, .container frase{
     display:none;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen (min -width: 1024px){
+        .conteiner_frase{
+            peding-left
+        }
+    }
