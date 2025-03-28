@@ -35,7 +35,7 @@ font-size: 30px;
 
 .container_titulo {
 
-font-weigth: 400;
+font-weight: 400;
 display: block;
 }
 
@@ -43,7 +43,7 @@ display: block;
 
     @media screen and (min-width: 1024px) {
           .conteiner_frase{
-         pedding-left: 5em;
+         padding-left: 5em;
          font-size: 20px;
          display:block
 
